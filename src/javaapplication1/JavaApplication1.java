@@ -332,7 +332,7 @@ public class JavaApplication1 implements NewInterface {
         
         //app.test10();
         //app.test11();
-        app.test4();
+        app.test5();
         
     }
 
